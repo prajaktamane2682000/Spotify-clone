@@ -78,7 +78,7 @@ body {
     flex-shrink: 0;
     top: 372.8px;
     left: 37.06px;
-    border: 3px solid green;
+    
     padding-top: 5px;
     padding-bottom: 10px;
 
@@ -107,7 +107,7 @@ body {
     flex-direction: column;
     height: 225px;
     padding-left: 3px;
-    border: 2px solid aqua;
+    
     padding-bottom: 1px;
 }
 
